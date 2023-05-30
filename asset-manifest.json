@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactCart/static/css/main.0901431c.css",
+    "main.js": "/ReactCart/static/js/main.cf278c50.js",
+    "static/media/VBucks.png": "/ReactCart/static/media/VBucks.7b62248267c3d70a36d7.png",
+    "static/media/fortnitebattlefest.ttf": "/ReactCart/static/media/fortnitebattlefest.9a279d22f71f6f08e0e5.ttf",
+    "static/media/akzidenzgroteskpro_regular.ttf": "/ReactCart/static/media/akzidenzgroteskpro_regular.bc17bd9624a2c3ea0116.ttf",
+    "index.html": "/ReactCart/index.html",
+    "main.0901431c.css.map": "/ReactCart/static/css/main.0901431c.css.map",
+    "main.cf278c50.js.map": "/ReactCart/static/js/main.cf278c50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0901431c.css",
+    "static/js/main.cf278c50.js"
+  ]
+}
